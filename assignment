@@ -1,0 +1,21 @@
+name = input('Enter a name HOE')
+fh = open(name)
+counts=dict()
+lst=list()
+for lines in fh:
+    if not lines.startswith('From '):
+        continue
+    lines=lines.split()
+    h=lines[5]
+    l=h.split(':')
+    t=l[0]
+    #print(t)
+    counts[t]=counts.get(t,0)+1
+for key,values in counts.items():
+    newtup=(key,values)
+    lst.append(newtup)
+lst=sorted(lst)
+for val,key in lst:
+    print(val,key)
+#print(counts)
+    
