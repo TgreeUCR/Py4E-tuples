@@ -1,0 +1,25 @@
+Welcome Traws Green from Capstone: Retrieving, Processing, and Visualizing Data with Python
+
+Mailing List Data - Part II
+
+In this assignment you will visualize the mailing list data you have downloaded from http://mbox.dr-chuck.net/ and take some screen shots. Important: You do not have to download all of the data. Gbasic.py must use a count greater than 300. You can run gmane multiple times to download more messages. It is completely acceptable to visualize a small subset of the data in the gbasic screenshot. For the gbasic screenshot show the lines for dump?, loaded messages=, and both sections for Top Email list participants & Email list organizations. ***For students in mainland China that can't access the Google API for the timeline, take a screenshot of gline.js open in your editor showing the numbers, dates of messages at the top. Please add a note to your assignment.***
+
+Don't take off points for little mistakes. If they seem to have done the assignment give them full credit. Feel free to make suggestions if there are small mistakes. Please keep your comments positive and useful. The course staff will assign the last 30% of the grade and it may take a few days to get graded.
+
+Please Upload Your Submission:
+
+A screen shot of you running the gbasic.py program to compute basic histogram data on the messages you have retrieved. (Please use PNG or JPG files 1024KB max)
+
+A screen shot of word cloud visualization for the messages you have retrieved. (Please use PNG or JPG files 1024KB max)
+
+A screen shot of time line visualization for the messages you have retrieved showing messages per month. (Please use PNG or JPG files 1024KB max)
+
+Optional Challenge: Change the gline.py program to show the message count by year instead of by month and take a screen shot of the by year visualization. You can switch from a by-month to a by-year visualization by changing only a few lines in gline.py. The puzzle is to figure out the smallest change to accomplish the change. If you do not want to do this optional challenge - just upload the above image a second time. (Please use PNG or JPG files 1024KB max)
+
+Enter optional comments below
+
+
+
+Make sure each uploaded image file is smaller than 1M. Total upload size limited to 2M
+
+The total number of points for this assignment is 10. You will get up to 3 points from your instructor. Your peers will give you a grade from 0 - 4. You will get 1 for each peer assignment you assess. You need to grade a minimum of 3 peer assignments. You can grade up to 10 peer assignments if you like but grading extra assignment will not increase your score.
